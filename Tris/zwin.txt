@@ -1,0 +1,6 @@
+
+Ecco le partite dove vince 0:
+X 0 0 
+X 0 X 
+0 X 0 
+

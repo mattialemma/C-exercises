@@ -1,0 +1,6 @@
+
+Ecco le partite dove vince X:
+X 0 0 
+X @ X 
+X X 0 
+

@@ -1,0 +1,8 @@
+Codice Fiscale: XYZABC78D90E123F
+Introiti: 3000 2500 
+Totale: 5500
+
+Codice Fiscale: PQPQER81A11F839A
+Introiti: 1000 3000 1004 
+Totale: 5004
+

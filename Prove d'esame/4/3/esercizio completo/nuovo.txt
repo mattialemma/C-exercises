@@ -1,0 +1,19 @@
+
+ - - - - - - 
+
+ Nome dipendente: Mattia Lemma.
+ Numero clienti: 1. 
+ Nome cliente: 2.
+ Numero pratica cliente: 2.
+ - - - - - - 
+
+ Nome dipendente: Carmine Sgariglia.
+ Numero clienti: 0. 
+ - - - - - - 
+
+ Nome dipendente: Salvatore Calamita.
+ Numero clienti: 0. 
+ - - - - - - 
+
+ Nome dipendente: Peppe Fetish.
+ Numero clienti: 0. 

@@ -1,0 +1,17 @@
+
+
+ Nome impiegato: Roberto. 
+ Nome cliente: vdvs. 
+ Numero pratica: 7. 
+
+ Nome impiegato: Alfonso. 
+ Nome cliente: fss. 
+ Numero pratica: 2. 
+
+ Nome impiegato: Marco. 
+ Nome cliente: ff. 
+ Numero pratica: 2. 
+
+ Nome impiegato: Mattia. 
+ Nome cliente: ugo. 
+ Numero pratica: 2. 
